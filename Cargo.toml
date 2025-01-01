@@ -1,4 +1,4 @@
 [package]
-name = "local-first-ai-workbench"
+name = "local_ai_workbench"
 version = "0.1.0"
 edition = "2021"

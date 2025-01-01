@@ -1,1 +1,1 @@
-export const appName = "local-first-ai-workbench";
+export const appName = "local-ai-workbench";
